@@ -1,12 +1,12 @@
 # URP
 シェーダグラフでシェーダを描いてみよう
 
-![結果画像](result.png)
+![結果画像](result_after.png)
 
-![シェーダ](node_graph.png)
+![シェーダ](node_graph_after.png)
 
 # 自分なりに変更した点
--
+-Wood以外のテクスチャで作成しました。
 -
 -
 
